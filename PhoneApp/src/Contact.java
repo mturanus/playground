@@ -18,6 +18,9 @@ public class Contact {
     private String email;
     private String city;
 
+    public static void main(String[] args) {
+        System.out.println("redtfyguhijkol");
+    }
 
     // Task 2:
     public String getFirstName() {
