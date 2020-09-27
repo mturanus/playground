@@ -19,8 +19,7 @@ public class Contact {
     private String city;
 
     public static void main(String[] args) {
-        System.out.println("redtfyguhijkol");
-        System.out.println("Muammer");
+        System.out.println("redtfyguhijkol"); 
     }
 
     // Task 2:
